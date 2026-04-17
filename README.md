@@ -43,3 +43,7 @@ Python 3.8+
 Веб-камера
 
 Windows / Linux / macOS
+
+# Видео демонстрация
+
+https://drive.google.com/file/d/1NtQsBCviw7MPeXO4C__wwpKu7QqVGGzE/view?usp=drive_link
